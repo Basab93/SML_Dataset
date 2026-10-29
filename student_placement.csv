@@ -1,0 +1,501 @@
+Student_ID,Branch,CGPA,Internships,Projects,Aptitude_Score,Soft_Skills_Rating,Backlogs,Certification,Placement_Status
+S1000,CSE,7.57,1,5,69.0,5.1,1,Yes,Placed
+S1001,CSE,6.36,0,5,72.0,6.3,0,Yes,Not Placed
+S1002,ME,7.98,1,2,58.0,8.2,0,No,Not Placed
+S1003,ME,8.15,0,6,68.0,5.2,2,No,Not Placed
+S1004,ECE,5.54,1,3,75.0,6.8,1,Yes,Not Placed
+S1005,CE,6.13,3,4,75.0,5.9,0,Yes,Placed
+S1006,CSE,7.42,3,5,87.0,7.1,0,,Placed
+S1007,ME,7.02,2,4,83.0,6.5,3,Yes,Placed
+S1008,CSE,7.28,0,2,56.0,8.9,1,No,Placed
+S1009,ME,6.53,1,2,88.0,7.7,1,No,Placed
+S1010,CE,8.09,2,3,62.0,5.3,0,No,Placed
+S1011,ME,8.0,1,6,81.0,7.9,0,No,Placed
+S1012,ECE,7.36,1,5,69.0,6.0,0,No,Placed
+S1013,ECE,8.31,0,3,63.0,6.2,1,No,Not Placed
+S1014,CSE,7.72,0,5,46.0,7.4,0,No,Not Placed
+S1015,ME,6.53,1,5,66.0,6.4,0,No,Not Placed
+S1016,ME,7.63,0,3,49.0,8.2,1,Yes,Placed
+S1017,CE,6.44,0,3,80.0,6.0,3,No,Not Placed
+S1018,ECE,8.09,2,6,86.0,6.2,1,Yes,Placed
+S1019,CSE,7.26,3,4,58.0,6.1,0,Yes,Placed
+S1020,ECE,7.13,1,1,,6.3,0,No,Placed
+S1021,CSE,6.69,2,5,59.0,8.4,0,No,Placed
+S1022,CSE,8.4,3,4,60.0,7.8,0,Yes,Placed
+S1023,CSE,7.16,0,4,77.0,9.2,0,Yes,Placed
+S1024,ME,6.91,1,5,68.0,9.9,0,Yes,Placed
+S1025,CSE,6.98,1,6,89.0,5.7,0,No,Not Placed
+S1026,CSE,7.78,0,2,62.0,7.1,2,Yes,Not Placed
+S1027,CSE,7.63,2,3,80.0,5.5,3,No,Not Placed
+S1028,CE,7.67,1,2,69.0,6.0,0,No,Placed
+S1029,ME,7.69,1,4,78.0,6.2,0,No,Placed
+S1030,CSE,9.23,0,3,63.0,5.6,0,No,Placed
+S1031,CSE,6.93,0,3,67.0,5.6,0,Yes,Not Placed
+S1032,ECE,6.84,3,5,67.0,6.8,0,Yes,Placed
+S1033,CSE,6.57,0,3,58.0,5.4,0,No,Not Placed
+S1034,ECE,7.85,0,3,76.0,8.1,1,Yes,Placed
+S1035,ECE,8.32,0,3,76.0,5.8,0,Yes,Placed
+S1036,CE,7.2,1,2,75.0,10.0,2,Yes,Not Placed
+S1037,CSE,6.54,1,1,86.0,6.4,0,Yes,Not Placed
+S1038,ME,6.56,1,5,85.0,7.1,0,Yes,Placed
+S1039,CSE,7.89,0,1,64.0,5.3,0,No,Not Placed
+S1040,CE,7.97,0,2,72.0,9.2,0,No,Placed
+S1041,CE,7.79,2,5,61.0,8.5,0,No,Placed
+S1042,ME,6.7,1,1,68.0,7.4,3,No,Not Placed
+S1043,ECE,7.51,1,4,61.0,5.2,0,Yes,Placed
+S1044,CSE,7.41,1,5,87.0,7.3,0,No,Placed
+S1045,ME,7.5,2,4,72.0,5.5,0,No,Not Placed
+S1046,ME,8.08,0,2,65.0,8.9,0,Yes,Placed
+S1047,CSE,7.5,1,1,82.0,8.1,0,No,Placed
+S1048,ECE,7.91,1,6,42.0,7.1,0,Yes,Placed
+S1049,ECE,7.36,0,2,44.0,3.8,2,Yes,Not Placed
+S1050,ME,7.56,2,5,78.0,5.7,0,Yes,Placed
+S1051,ME,7.87,1,2,69.0,7.9,0,Yes,Placed
+S1052,ECE,5.99,2,1,71.0,8.6,1,Yes,Not Placed
+S1053,ECE,7.01,2,5,52.0,8.4,2,No,Not Placed
+S1054,CSE,6.88,1,6,68.0,4.9,0,No,Placed
+S1055,CSE,6.73,3,6,92.0,7.4,0,Yes,Placed
+S1056,CSE,7.05,1,5,78.0,8.3,0,No,Placed
+S1057,ME,8.65,2,2,70.0,4.8,0,Yes,Placed
+S1058,ECE,6.52,0,6,63.0,7.0,0,No,Not Placed
+S1059,ECE,8.17,1,5,63.0,7.4,1,Yes,Placed
+S1060,CSE,5.79,1,2,42.0,6.6,0,Yes,Not Placed
+S1061,CSE,7.0,0,1,71.0,4.6,1,No,Not Placed
+S1062,ECE,7.45,1,6,78.0,6.6,0,,Placed
+S1063,CSE,7.83,3,2,,6.6,2,No,Not Placed
+S1064,CSE,7.94,1,5,60.0,6.8,2,No,Not Placed
+S1065,ME,8.01,0,1,54.0,6.3,0,No,Placed
+S1066,CSE,6.99,0,2,56.0,6.4,0,Yes,Not Placed
+S1067,CSE,6.88,0,2,69.0,6.9,0,Yes,Placed
+S1068,ECE,8.07,0,2,43.0,7.6,2,Yes,Not Placed
+S1069,ME,7.13,3,5,75.0,6.6,0,Yes,Placed
+S1070,CSE,6.15,1,6,77.0,6.5,0,Yes,Placed
+S1071,ME,6.28,0,6,65.0,7.1,0,No,Not Placed
+S1072,CE,6.47,1,5,38.0,4.5,1,Yes,Not Placed
+S1073,ME,7.75,0,2,56.0,7.6,0,No,Not Placed
+S1074,ECE,7.43,0,6,83.0,7.0,0,No,Placed
+S1075,ME,7.92,2,4,35.0,7.1,3,No,Not Placed
+S1076,ECE,6.92,1,4,64.0,8.2,0,No,Placed
+S1077,ECE,7.44,3,5,,4.5,2,Yes,Not Placed
+S1078,ECE,7.86,1,5,78.0,4.4,0,Yes,Placed
+S1079,CSE,7.02,1,6,60.0,7.4,0,No,Placed
+S1080,CSE,7.71,2,4,73.0,7.0,2,No,Placed
+S1081,ECE,6.7,3,4,75.0,7.2,1,Yes,Not Placed
+S1082,CSE,6.97,2,5,90.0,6.4,1,Yes,Placed
+S1083,ECE,6.96,3,2,66.0,7.9,0,No,Placed
+S1084,ECE,6.22,2,2,73.0,8.2,0,No,Placed
+S1085,CE,7.74,2,4,50.0,7.6,0,Yes,Placed
+S1086,CSE,6.88,0,1,82.0,,0,Yes,Placed
+S1087,ECE,7.31,2,2,59.0,4.3,0,No,Not Placed
+S1088,ECE,7.73,1,5,61.0,8.0,0,Yes,Placed
+S1089,CSE,7.7,1,6,68.0,8.6,0,No,Placed
+S1090,CSE,7.9,1,4,49.0,7.8,0,Yes,Placed
+S1091,CSE,7.21,3,3,71.0,5.9,0,No,Not Placed
+S1092,CSE,6.92,3,3,80.0,7.9,0,Yes,Placed
+S1093,CSE,7.23,0,5,72.0,8.1,2,Yes,Placed
+S1094,ECE,5.78,2,4,49.0,9.0,1,No,Not Placed
+S1095,ECE,6.0,2,1,67.0,5.9,0,No,Placed
+S1096,CSE,6.11,0,4,77.0,6.7,1,No,Not Placed
+S1097,CSE,6.4,0,3,45.0,8.0,2,Yes,Not Placed
+S1098,CSE,7.66,0,5,55.0,7.1,0,No,Not Placed
+S1099,ECE,6.49,2,6,79.0,5.5,0,No,Not Placed
+S1100,CSE,6.96,1,6,71.0,7.5,0,No,Placed
+S1101,ECE,8.47,3,4,73.0,7.8,0,,Placed
+S1102,CSE,6.98,1,3,90.0,,1,No,Placed
+S1103,CSE,7.96,3,3,74.0,7.3,3,No,Not Placed
+S1104,CE,6.46,1,2,76.0,6.7,0,No,Not Placed
+S1105,CSE,7.12,2,6,100.0,8.9,1,Yes,Placed
+S1106,CSE,6.44,0,6,65.0,5.8,0,Yes,Not Placed
+S1107,CSE,6.99,1,6,,6.2,0,Yes,Placed
+S1108,CE,8.06,2,2,73.0,7.0,1,No,Placed
+S1109,ECE,5.75,3,2,73.0,8.1,0,No,Placed
+S1110,ECE,7.69,2,6,62.0,5.1,0,Yes,Placed
+S1111,CE,7.51,0,4,56.0,5.3,0,No,Not Placed
+S1112,CSE,6.77,1,5,96.0,4.4,3,No,Not Placed
+S1113,CE,6.0,0,3,72.0,7.0,0,Yes,Not Placed
+S1114,CSE,7.36,0,3,59.0,5.5,0,Yes,Not Placed
+S1115,ECE,6.82,1,4,79.0,6.5,0,No,Placed
+S1116,ECE,7.51,2,5,67.0,7.9,0,No,Placed
+S1117,CSE,7.32,2,3,65.0,6.2,0,Yes,Placed
+S1118,CE,8.74,2,5,75.0,7.3,1,No,Placed
+S1119,CSE,7.08,2,2,52.0,6.6,1,No,Not Placed
+S1120,CE,6.38,2,3,72.0,7.9,2,No,Not Placed
+S1121,CSE,7.46,0,6,91.0,7.6,2,No,Placed
+S1122,ECE,7.5,0,6,74.0,6.1,0,No,Not Placed
+S1123,CE,8.52,1,6,63.0,6.8,0,No,Placed
+S1124,CSE,8.05,2,2,62.0,8.4,0,Yes,Placed
+S1125,CE,7.62,0,6,63.0,7.5,0,No,Placed
+S1126,ECE,8.62,1,6,65.0,5.2,3,Yes,Not Placed
+S1127,ME,6.23,1,6,63.0,7.9,1,No,Not Placed
+S1128,CSE,6.72,0,1,79.0,5.6,3,Yes,Not Placed
+S1129,ECE,6.47,1,5,47.0,8.8,0,No,Not Placed
+S1130,ME,6.95,2,6,78.0,8.3,0,Yes,Placed
+S1131,ECE,6.06,1,5,63.0,7.4,0,Yes,Not Placed
+S1132,CSE,7.87,0,2,73.0,7.2,0,Yes,Placed
+S1133,CSE,7.1,2,5,54.0,6.7,0,No,Placed
+S1134,CE,5.98,0,1,84.0,7.9,0,No,Not Placed
+S1135,CSE,6.39,2,3,83.0,6.5,0,Yes,Placed
+S1136,ME,7.58,0,4,80.0,7.3,3,No,Not Placed
+S1137,CE,8.05,1,3,50.0,8.1,0,No,Placed
+S1138,CSE,9.1,1,5,78.0,6.3,0,Yes,Placed
+S1139,CSE,9.92,0,2,73.0,6.2,1,No,Placed
+S1140,ME,7.67,2,4,49.0,5.4,0,Yes,Not Placed
+S1141,CSE,6.41,0,4,68.0,5.6,2,Yes,Not Placed
+S1142,ECE,5.38,0,4,72.0,4.6,1,No,Not Placed
+S1143,ME,7.54,0,2,75.0,7.9,0,Yes,Placed
+S1144,ECE,6.57,2,2,70.0,9.4,1,No,Not Placed
+S1145,CSE,6.93,2,2,71.0,8.9,1,No,Placed
+S1146,ME,6.75,3,3,86.0,4.9,1,No,Not Placed
+S1147,ECE,7.17,0,4,83.0,7.9,2,No,Not Placed
+S1148,CSE,8.26,1,3,34.0,8.8,1,No,Placed
+S1149,ECE,7.44,0,3,64.0,6.4,0,No,Not Placed
+S1150,CE,7.16,1,2,66.0,7.1,0,Yes,Placed
+S1151,ME,6.37,3,2,47.0,4.4,1,Yes,Not Placed
+S1152,ECE,5.79,2,4,69.0,7.3,3,No,Not Placed
+S1153,CSE,6.86,1,5,83.0,5.6,0,Yes,Placed
+S1154,CSE,7.25,1,2,55.0,7.3,1,Yes,Not Placed
+S1155,CSE,8.89,3,6,72.0,5.0,0,Yes,Placed
+S1156,CSE,7.42,1,4,57.0,7.7,1,,Placed
+S1157,CE,8.18,0,2,60.0,8.3,3,Yes,Placed
+S1158,CSE,6.85,1,3,86.0,6.0,0,Yes,Placed
+S1159,ME,6.23,0,1,61.0,5.5,0,Yes,Not Placed
+S1160,CSE,6.43,0,1,74.0,4.2,0,Yes,Not Placed
+S1161,CSE,6.65,0,3,46.0,6.7,0,No,Not Placed
+S1162,ECE,9.22,1,3,90.0,6.2,0,Yes,Placed
+S1163,CSE,6.56,1,5,75.0,5.0,0,No,Placed
+S1164,ME,8.05,0,1,66.0,7.6,0,No,Placed
+S1165,CE,6.49,1,6,75.0,6.4,0,Yes,Not Placed
+S1166,CE,8.14,3,2,51.0,5.6,0,No,Placed
+S1167,CSE,7.65,2,1,82.0,6.3,1,No,Placed
+S1168,ME,7.16,1,5,64.0,8.4,1,No,Not Placed
+S1169,CSE,7.26,0,5,66.0,7.8,1,Yes,Not Placed
+S1170,CE,6.71,2,4,62.0,6.8,1,Yes,Not Placed
+S1171,ECE,7.7,0,1,61.0,7.8,1,No,Placed
+S1172,CSE,6.89,0,1,76.0,5.5,0,No,Not Placed
+S1173,CSE,6.2,3,3,71.0,7.0,1,,Not Placed
+S1174,CSE,6.15,1,3,76.0,7.2,0,No,Not Placed
+S1175,CSE,7.46,2,6,68.0,6.4,0,Yes,Placed
+S1176,CE,8.72,1,2,74.0,7.6,0,No,Placed
+S1177,ME,7.44,1,2,63.0,6.0,2,No,Not Placed
+S1178,CE,7.19,0,6,95.0,7.7,1,No,Placed
+S1179,CSE,7.56,0,1,49.0,7.7,0,Yes,Not Placed
+S1180,ECE,8.48,0,1,83.0,3.2,0,Yes,Placed
+S1181,CSE,7.5,0,3,84.0,8.5,0,No,Placed
+S1182,ECE,6.93,2,3,58.0,3.0,1,No,Not Placed
+S1183,CSE,8.3,0,4,95.0,6.2,2,No,Placed
+S1184,CSE,7.69,1,6,80.0,8.3,0,Yes,Placed
+S1185,ECE,8.68,2,6,80.0,6.6,0,Yes,Placed
+S1186,CSE,7.46,2,2,68.0,5.1,0,No,Placed
+S1187,ECE,6.2,1,6,65.0,5.6,0,Yes,Not Placed
+S1188,ME,6.07,1,4,65.0,8.3,2,Yes,Not Placed
+S1189,CSE,8.79,3,1,73.0,4.5,1,No,Placed
+S1190,CE,8.85,1,6,85.0,8.5,0,Yes,Placed
+S1191,ECE,7.14,2,1,70.0,6.9,0,No,Placed
+S1192,ME,6.96,3,4,57.0,5.4,0,Yes,Placed
+S1193,ME,8.62,2,5,78.0,6.2,0,No,Placed
+S1194,ME,6.3,0,2,79.0,5.7,0,No,Not Placed
+S1195,ME,6.49,1,2,76.0,8.1,0,,Placed
+S1196,CE,7.88,0,3,77.0,8.0,3,No,Not Placed
+S1197,ECE,6.94,1,6,65.0,4.8,0,Yes,Placed
+S1198,CSE,7.3,3,2,57.0,6.5,0,No,Placed
+S1199,CSE,7.15,1,4,58.0,,0,No,Not Placed
+S1200,ECE,7.6,1,3,48.0,8.7,0,No,Placed
+S1201,CSE,8.57,0,1,71.0,5.2,2,No,Not Placed
+S1202,CSE,7.38,3,5,67.0,,0,No,Placed
+S1203,CSE,7.88,0,5,63.0,7.0,1,No,Placed
+S1204,ECE,5.45,0,4,33.0,5.5,2,No,Not Placed
+S1205,CSE,7.26,0,2,53.0,6.1,0,Yes,Not Placed
+S1206,ECE,6.54,0,1,81.0,6.0,1,No,Not Placed
+S1207,ME,6.2,1,3,60.0,5.3,3,No,Not Placed
+S1208,ME,6.51,1,4,72.0,7.1,0,Yes,Placed
+S1209,CSE,7.0,0,4,51.0,5.4,0,No,Not Placed
+S1210,ECE,8.12,0,2,85.0,4.2,3,No,Not Placed
+S1211,ECE,6.11,0,4,66.0,6.5,2,Yes,Not Placed
+S1212,ECE,7.33,1,2,71.0,4.7,0,No,Placed
+S1213,ME,6.86,0,5,96.0,6.0,0,No,Placed
+S1214,CSE,7.01,1,5,86.0,5.8,0,No,Placed
+S1215,CE,8.2,0,4,64.0,5.9,2,Yes,Not Placed
+S1216,CSE,7.78,0,1,61.0,9.6,0,No,Placed
+S1217,ME,8.5,1,6,64.0,7.1,0,Yes,Placed
+S1218,ECE,7.16,1,1,74.0,7.3,1,No,Not Placed
+S1219,CSE,6.67,0,6,67.0,4.7,3,Yes,Not Placed
+S1220,ME,7.1,0,1,63.0,,2,No,Not Placed
+S1221,CSE,7.52,2,4,86.0,7.3,0,No,Placed
+S1222,ME,7.46,0,1,67.0,5.7,0,No,Placed
+S1223,ECE,6.32,1,1,96.0,8.2,3,No,Not Placed
+S1224,CSE,7.38,1,5,69.0,5.4,3,No,Not Placed
+S1225,CSE,7.51,0,5,89.0,6.6,0,No,Placed
+S1226,ME,9.57,1,1,72.0,6.2,1,Yes,Placed
+S1227,CSE,8.99,2,6,80.0,7.2,0,No,Placed
+S1228,CE,6.53,2,2,59.0,6.2,0,No,Placed
+S1229,ME,7.04,0,2,58.0,6.6,0,No,Not Placed
+S1230,ME,5.98,0,2,74.0,6.7,0,No,Not Placed
+S1231,CSE,6.77,0,3,80.0,6.0,0,No,Not Placed
+S1232,ME,7.58,1,2,68.0,7.6,2,No,Not Placed
+S1233,CE,8.39,1,3,53.0,7.3,0,No,Placed
+S1234,CSE,6.64,0,2,52.0,6.9,0,Yes,Not Placed
+S1235,CSE,6.71,0,1,51.0,6.4,0,No,Not Placed
+S1236,CSE,5.37,3,3,47.0,8.0,0,No,Not Placed
+S1237,CSE,7.15,0,5,69.0,6.7,0,No,Placed
+S1238,ME,6.34,1,5,82.0,6.6,0,No,Placed
+S1239,ECE,6.82,2,3,68.0,7.1,0,Yes,Placed
+S1240,ECE,6.51,0,2,41.0,9.2,1,Yes,Not Placed
+S1241,CSE,7.22,0,5,66.0,5.3,2,No,Not Placed
+S1242,CSE,5.72,0,5,66.0,8.0,0,Yes,Not Placed
+S1243,CSE,5.98,3,5,93.0,4.5,2,Yes,Not Placed
+S1244,CE,9.22,0,6,51.0,7.3,2,Yes,Placed
+S1245,ECE,6.14,0,5,63.0,9.0,2,No,Not Placed
+S1246,CSE,6.31,0,6,88.0,7.6,1,No,Not Placed
+S1247,ME,8.95,0,3,73.0,7.2,1,Yes,Placed
+S1248,CSE,9.91,1,3,75.0,6.3,1,Yes,Placed
+S1249,CSE,6.25,0,2,69.0,7.0,1,No,Not Placed
+S1250,CSE,6.97,1,2,72.0,6.7,0,Yes,Placed
+S1251,CE,7.61,1,5,77.0,6.0,3,No,Not Placed
+S1252,ME,8.86,2,5,58.0,6.6,0,No,Placed
+S1253,ECE,6.41,0,5,79.0,7.3,1,Yes,Not Placed
+S1254,CSE,7.08,2,2,52.0,6.0,0,No,Not Placed
+S1255,CSE,8.0,1,3,72.0,6.0,0,Yes,Placed
+S1256,ECE,7.69,0,2,70.0,5.2,0,Yes,Not Placed
+S1257,CSE,6.96,2,6,61.0,7.5,0,No,Placed
+S1258,CE,7.18,2,2,68.0,7.7,0,No,Placed
+S1259,ME,6.06,0,1,61.0,7.3,0,No,Not Placed
+S1260,ECE,7.09,3,4,55.0,8.3,0,Yes,Placed
+S1261,ME,7.06,1,6,64.0,7.1,0,Yes,Placed
+S1262,CE,7.51,1,6,55.0,7.5,0,No,Placed
+S1263,ECE,6.8,3,1,72.0,7.4,3,No,Not Placed
+S1264,ECE,7.72,1,2,54.0,6.9,0,No,Placed
+S1265,CE,8.21,2,1,77.0,6.3,0,Yes,Placed
+S1266,CSE,7.44,0,2,54.0,,0,No,Placed
+S1267,CE,7.62,2,4,61.0,6.4,0,No,Not Placed
+S1268,CSE,7.35,1,2,61.0,6.1,0,No,Not Placed
+S1269,ECE,7.3,0,1,84.0,7.6,1,Yes,Not Placed
+S1270,ME,6.65,1,4,72.0,7.3,3,No,Not Placed
+S1271,ECE,7.58,0,1,65.0,5.2,0,Yes,Not Placed
+S1272,ECE,7.21,0,2,74.0,8.5,1,No,Not Placed
+S1273,ECE,9.18,0,1,43.0,6.9,0,No,Placed
+S1274,CSE,8.72,0,1,67.0,5.6,0,No,Not Placed
+S1275,CSE,7.65,0,3,92.0,8.5,0,No,Placed
+S1276,CSE,6.61,0,6,70.0,7.8,0,No,Not Placed
+S1277,ECE,6.3,2,5,69.0,5.4,1,No,Not Placed
+S1278,ECE,8.37,2,1,75.0,9.3,1,No,Placed
+S1279,CSE,7.54,2,1,79.0,7.9,1,No,Placed
+S1280,CE,7.73,0,3,44.0,7.0,0,Yes,Not Placed
+S1281,CSE,5.73,2,4,48.0,9.1,1,No,Not Placed
+S1282,ECE,8.13,1,5,71.0,7.2,0,No,Placed
+S1283,ECE,7.71,0,5,59.0,7.0,0,No,Placed
+S1284,CSE,6.3,0,3,84.0,6.1,0,No,Not Placed
+S1285,ME,6.88,1,2,64.0,7.8,1,No,Not Placed
+S1286,ECE,7.54,0,1,45.0,7.6,3,Yes,Not Placed
+S1287,CSE,7.35,1,1,53.0,7.0,0,No,Placed
+S1288,CE,7.04,3,1,,6.0,0,Yes,Not Placed
+S1289,ME,7.21,0,6,65.0,7.2,1,Yes,Not Placed
+S1290,ME,7.07,0,2,66.0,6.9,2,Yes,Not Placed
+S1291,CE,7.44,3,5,63.0,5.3,0,Yes,Placed
+S1292,CE,8.62,1,4,81.0,5.1,1,Yes,Placed
+S1293,CSE,5.0,0,4,82.0,,1,No,Not Placed
+S1294,ECE,7.09,2,3,66.0,3.6,2,Yes,Not Placed
+S1295,ECE,7.46,2,5,42.0,7.3,0,No,Placed
+S1296,CSE,7.57,1,1,75.0,6.4,3,Yes,Not Placed
+S1297,CSE,6.97,1,1,75.0,8.7,0,No,Placed
+S1298,CSE,5.72,0,3,72.0,6.4,2,No,Not Placed
+S1299,ME,7.6,0,3,80.0,7.9,0,Yes,Placed
+S1300,ME,8.85,1,4,54.0,6.5,0,No,Placed
+S1301,ME,5.92,0,5,92.0,7.1,0,No,Not Placed
+S1302,CSE,8.08,1,4,56.0,8.0,0,No,Placed
+S1303,CSE,7.0,2,2,77.0,6.4,0,Yes,Placed
+S1304,ECE,7.24,0,2,48.0,8.3,0,No,Not Placed
+S1305,ECE,6.35,1,5,57.0,5.7,0,No,Not Placed
+S1306,CE,7.0,0,2,86.0,7.4,0,Yes,Placed
+S1307,CE,8.47,2,4,65.0,8.2,1,No,Placed
+S1308,CE,7.82,0,4,78.0,7.9,2,Yes,Not Placed
+S1309,CE,8.86,1,5,71.0,9.5,1,No,Placed
+S1310,CE,8.36,1,5,67.0,6.0,0,Yes,Placed
+S1311,ECE,7.7,1,3,84.0,5.2,0,Yes,Placed
+S1312,CSE,8.87,1,2,65.0,5.7,2,No,Placed
+S1313,CSE,7.7,2,3,47.0,7.9,0,No,Placed
+S1314,CSE,8.05,1,3,58.0,7.6,0,No,Placed
+S1315,CSE,7.03,2,2,75.0,7.1,3,No,Not Placed
+S1316,CSE,7.36,3,4,73.0,5.5,3,Yes,Not Placed
+S1317,CE,6.67,1,2,49.0,8.0,0,Yes,Not Placed
+S1318,CSE,8.19,1,4,59.0,5.4,1,Yes,Placed
+S1319,CE,6.24,0,5,61.0,8.5,0,No,Not Placed
+S1320,ME,8.0,2,6,64.0,10.0,1,Yes,Placed
+S1321,ECE,7.13,1,1,51.0,7.5,0,No,Not Placed
+S1322,ME,8.35,1,5,60.0,7.8,0,Yes,Placed
+S1323,CSE,7.98,0,1,59.0,6.4,1,Yes,Not Placed
+S1324,ECE,8.94,2,3,77.0,4.6,0,Yes,Placed
+S1325,CSE,7.96,1,2,78.0,6.2,1,Yes,Not Placed
+S1326,CE,5.89,1,1,66.0,5.6,0,Yes,Not Placed
+S1327,CSE,7.24,0,2,63.0,5.1,2,No,Not Placed
+S1328,CSE,6.25,3,1,70.0,9.2,2,Yes,Not Placed
+S1329,ME,6.83,0,5,58.0,7.4,0,No,Not Placed
+S1330,ME,8.66,0,1,54.0,7.5,1,No,Placed
+S1331,ECE,7.87,2,3,57.0,6.6,0,No,Placed
+S1332,ECE,6.67,3,5,60.0,6.8,0,No,Placed
+S1333,CSE,6.39,0,6,54.0,8.3,0,Yes,Not Placed
+S1334,ME,7.33,1,6,70.0,7.0,2,Yes,Not Placed
+S1335,CSE,6.21,2,1,77.0,7.7,2,Yes,Not Placed
+S1336,CSE,6.7,2,6,49.0,6.7,2,No,Not Placed
+S1337,CSE,7.58,1,4,68.0,6.6,2,No,Not Placed
+S1338,CSE,8.34,1,2,65.0,5.2,3,Yes,Not Placed
+S1339,CSE,7.85,2,3,72.0,4.4,0,No,Not Placed
+S1340,ECE,5.24,2,6,68.0,6.7,3,No,Not Placed
+S1341,CSE,7.57,2,3,51.0,7.1,0,No,Not Placed
+S1342,CSE,7.36,1,2,53.0,5.3,0,No,Placed
+S1343,ECE,7.67,0,6,68.0,7.0,0,No,Placed
+S1344,CSE,8.75,3,6,80.0,7.1,0,No,Placed
+S1345,ME,5.44,2,6,41.0,4.2,0,No,Not Placed
+S1346,CE,6.77,2,6,72.0,5.8,0,Yes,Not Placed
+S1347,ECE,7.83,0,6,82.0,7.5,0,Yes,Placed
+S1348,CE,5.88,0,3,66.0,7.5,0,No,Not Placed
+S1349,CSE,8.63,2,2,75.0,5.5,2,No,Placed
+S1350,CSE,7.63,0,4,60.0,7.2,1,Yes,Placed
+S1351,ME,8.06,3,2,67.0,8.3,0,No,Placed
+S1352,ME,6.79,1,3,49.0,8.0,0,Yes,Placed
+S1353,ME,8.03,2,4,40.0,6.9,0,No,Placed
+S1354,CSE,8.26,2,6,79.0,6.4,0,Yes,Placed
+S1355,ME,7.51,1,2,56.0,6.2,2,No,Not Placed
+S1356,CSE,7.51,0,2,63.0,7.6,0,No,Not Placed
+S1357,CSE,7.54,1,5,51.0,7.3,1,Yes,Placed
+S1358,CSE,6.52,1,1,51.0,7.8,1,Yes,Not Placed
+S1359,CE,7.17,1,4,66.0,7.2,0,No,Placed
+S1360,CSE,7.16,1,5,59.0,8.1,2,,Placed
+S1361,ME,7.65,3,4,73.0,7.1,0,Yes,Placed
+S1362,ECE,8.2,1,3,73.0,8.0,2,No,Placed
+S1363,ME,6.35,0,5,72.0,8.1,1,Yes,Placed
+S1364,ME,7.19,1,3,71.0,6.0,1,Yes,Not Placed
+S1365,CE,8.63,1,5,87.0,4.6,1,Yes,Placed
+S1366,CSE,6.63,0,3,55.0,9.0,2,No,Not Placed
+S1367,CSE,6.56,0,1,67.0,7.3,3,Yes,Not Placed
+S1368,ECE,7.48,1,4,82.0,4.8,0,Yes,Placed
+S1369,CSE,8.06,0,1,83.0,6.1,2,Yes,Placed
+S1370,CSE,7.31,3,6,51.0,8.0,1,Yes,Placed
+S1371,CSE,8.5,0,4,64.0,6.6,0,Yes,Placed
+S1372,CSE,8.07,0,3,84.0,6.3,3,Yes,Placed
+S1373,CSE,8.06,2,3,74.0,8.8,0,Yes,Placed
+S1374,CSE,7.8,2,4,70.0,5.6,0,Yes,Placed
+S1375,CE,9.39,0,2,65.0,6.0,0,No,Placed
+S1376,CSE,7.12,0,2,63.0,7.3,0,Yes,Placed
+S1377,CE,5.5,0,3,71.0,7.5,2,Yes,Not Placed
+S1378,CE,8.74,1,2,65.0,7.6,0,No,Placed
+S1379,CSE,6.89,1,5,67.0,8.2,0,No,Not Placed
+S1380,ME,7.4,0,1,69.0,7.3,0,No,Placed
+S1381,ECE,8.48,0,5,60.0,7.6,0,Yes,Placed
+S1382,ME,5.86,1,3,,6.7,2,Yes,Not Placed
+S1383,CSE,6.17,3,4,100.0,7.1,2,Yes,Placed
+S1384,CSE,5.86,1,1,47.0,7.1,0,Yes,Not Placed
+S1385,CSE,6.59,1,3,72.0,7.3,0,Yes,Placed
+S1386,ECE,7.7,0,5,59.0,8.0,0,No,Placed
+S1387,CE,7.77,0,2,75.0,7.7,1,Yes,Not Placed
+S1388,ME,7.55,0,1,69.0,7.1,0,No,Not Placed
+S1389,ME,6.03,2,4,77.0,5.9,0,Yes,Not Placed
+S1390,CE,5.22,2,1,82.0,7.1,0,Yes,Not Placed
+S1391,ME,7.35,3,2,70.0,7.0,0,No,Placed
+S1392,CSE,6.88,3,3,82.0,7.3,0,No,Placed
+S1393,CE,7.71,3,4,40.0,9.9,0,Yes,Placed
+S1394,CSE,7.93,3,4,87.0,6.3,2,No,Not Placed
+S1395,CSE,7.42,0,5,73.0,7.5,1,Yes,Placed
+S1396,ECE,7.98,0,6,81.0,8.4,0,Yes,Placed
+S1397,CE,7.51,0,1,53.0,7.1,2,No,Not Placed
+S1398,CSE,7.78,1,3,58.0,,2,Yes,Placed
+S1399,ECE,6.67,0,1,70.0,6.5,0,Yes,Not Placed
+S1400,CSE,7.14,2,1,68.0,7.4,0,No,Placed
+S1401,CSE,7.48,1,2,71.0,6.0,0,Yes,Not Placed
+S1402,CSE,8.04,1,4,81.0,6.5,1,Yes,Placed
+S1403,ME,6.95,0,6,47.0,7.3,0,Yes,Placed
+S1404,CE,7.77,0,5,80.0,8.1,1,No,Placed
+S1405,CSE,7.06,0,4,68.0,7.4,0,No,Placed
+S1406,CSE,7.19,2,5,66.0,8.6,0,Yes,Placed
+S1407,CSE,8.05,1,2,50.0,6.9,3,Yes,Placed
+S1408,CSE,5.51,2,6,74.0,6.6,0,No,Not Placed
+S1409,ECE,6.13,0,6,39.0,10.0,2,Yes,Not Placed
+S1410,ME,5.97,1,1,76.0,7.5,3,No,Not Placed
+S1411,ECE,5.2,1,3,50.0,6.1,2,No,Not Placed
+S1412,CSE,6.69,2,5,69.0,6.1,0,Yes,Placed
+S1413,ECE,7.97,2,3,67.0,5.8,2,Yes,Placed
+S1414,CSE,7.04,0,6,82.0,8.2,0,Yes,Placed
+S1415,CSE,7.48,3,6,66.0,6.5,0,Yes,Placed
+S1416,CE,8.28,0,3,60.0,7.2,2,Yes,Placed
+S1417,ME,8.49,2,1,62.0,6.9,1,No,Placed
+S1418,CE,7.24,0,3,83.0,8.0,0,Yes,Placed
+S1419,CE,8.52,0,2,74.0,5.9,0,No,Placed
+S1420,ECE,7.38,2,3,63.0,5.6,2,No,Not Placed
+S1421,CE,6.55,0,4,65.0,7.3,1,Yes,Not Placed
+S1422,ECE,6.77,1,3,49.0,7.8,0,Yes,Not Placed
+S1423,CSE,5.97,1,2,73.0,7.4,2,Yes,Not Placed
+S1424,CSE,6.5,0,2,47.0,5.9,0,No,Not Placed
+S1425,CSE,6.98,2,5,77.0,7.9,0,Yes,Placed
+S1426,CSE,8.02,2,1,70.0,6.0,1,No,Placed
+S1427,CSE,8.85,2,2,97.0,6.3,3,No,Placed
+S1428,ME,6.06,0,6,55.0,5.8,0,No,Not Placed
+S1429,ME,7.65,1,1,67.0,8.7,0,No,Placed
+S1430,ECE,6.36,0,3,90.0,7.8,0,No,Placed
+S1431,CSE,7.73,0,2,82.0,7.8,2,No,Not Placed
+S1432,ME,7.18,0,1,60.0,8.6,0,No,Placed
+S1433,CSE,5.65,3,3,71.0,10.0,0,No,Placed
+S1434,CSE,8.14,2,4,68.0,4.8,3,No,Placed
+S1435,CSE,6.76,2,2,71.0,6.0,0,No,Not Placed
+S1436,CSE,6.82,1,1,60.0,6.2,0,No,Not Placed
+S1437,CSE,6.34,1,1,67.0,5.9,0,No,Not Placed
+S1438,ME,6.71,1,4,49.0,5.6,2,No,Not Placed
+S1439,ME,7.69,1,6,70.0,6.6,0,No,Placed
+S1440,ME,7.13,1,2,73.0,5.4,0,Yes,Placed
+S1441,CSE,7.6,0,2,,7.4,0,No,Placed
+S1442,ME,7.63,0,3,49.0,7.1,1,No,Not Placed
+S1443,ME,8.49,3,3,80.0,7.6,1,No,Placed
+S1444,CSE,6.99,1,2,72.0,7.7,0,Yes,Placed
+S1445,ECE,5.97,3,1,59.0,7.8,0,No,Not Placed
+S1446,ECE,8.26,0,4,65.0,6.5,2,No,Placed
+S1447,ECE,7.0,1,3,,9.8,0,No,Not Placed
+S1448,CSE,8.3,0,3,56.0,7.3,0,No,Placed
+S1449,ECE,7.65,0,2,62.0,4.6,0,No,Not Placed
+S1450,CSE,7.18,0,6,83.0,5.7,0,No,Not Placed
+S1451,CSE,7.61,0,4,,4.7,0,Yes,Placed
+S1452,CSE,9.06,3,3,76.0,7.0,0,No,Placed
+S1453,CE,9.17,0,2,62.0,6.8,0,Yes,Placed
+S1454,CSE,7.36,1,5,71.0,6.4,0,No,Not Placed
+S1455,CSE,7.44,1,6,66.0,9.6,1,No,Placed
+S1456,CSE,8.27,1,1,78.0,7.7,0,Yes,Placed
+S1457,CE,6.54,1,6,62.0,7.9,0,Yes,Not Placed
+S1458,ECE,7.6,0,5,49.0,5.8,2,Yes,Not Placed
+S1459,CE,7.28,3,1,51.0,5.7,0,No,Placed
+S1460,CSE,7.58,2,5,,7.0,1,No,Placed
+S1461,CSE,6.55,2,1,53.0,7.2,0,Yes,Not Placed
+S1462,ECE,5.87,1,1,73.0,4.6,1,No,Not Placed
+S1463,CSE,5.43,0,1,62.0,6.8,0,Yes,Not Placed
+S1464,ME,6.29,3,3,96.0,7.0,0,No,Placed
+S1465,CE,6.89,0,4,47.0,6.7,0,Yes,Not Placed
+S1466,ECE,7.04,0,3,70.0,5.9,0,Yes,Not Placed
+S1467,CE,9.04,0,1,54.0,6.3,0,Yes,Placed
+S1468,ECE,8.3,2,2,62.0,6.8,1,No,Placed
+S1469,CSE,6.43,1,6,70.0,7.1,2,No,Not Placed
+S1470,ECE,7.61,2,6,40.0,7.8,0,No,Placed
+S1471,CSE,6.93,2,5,71.0,8.4,2,No,Not Placed
+S1472,ME,7.04,0,1,91.0,6.6,1,Yes,Placed
+S1473,CSE,7.47,3,5,63.0,6.4,2,Yes,Placed
+S1474,CSE,7.86,1,5,71.0,7.6,1,Yes,Placed
+S1475,ECE,6.99,1,4,80.0,7.8,1,No,Not Placed
+S1476,CSE,8.26,0,1,66.0,6.4,0,Yes,Placed
+S1477,CSE,6.27,3,6,61.0,8.0,1,No,Not Placed
+S1478,ME,7.31,0,3,41.0,8.3,2,Yes,Not Placed
+S1479,CSE,9.64,0,1,76.0,8.7,0,Yes,Placed
+S1480,ECE,7.5,1,2,67.0,9.3,0,Yes,Placed
+S1481,CSE,8.59,0,3,56.0,5.9,0,Yes,Placed
+S1482,CSE,7.38,0,1,70.0,7.0,3,No,Not Placed
+S1483,CSE,7.82,1,2,61.0,7.0,0,No,Placed
+S1484,ME,7.25,1,3,62.0,6.9,1,Yes,Not Placed
+S1485,CE,7.15,3,6,75.0,6.2,2,No,Not Placed
+S1486,CSE,6.6,0,1,52.0,5.1,3,No,Not Placed
+S1487,CE,7.69,2,4,81.0,7.1,0,No,Not Placed
+S1488,ECE,6.53,1,6,51.0,6.0,1,No,Not Placed
+S1489,ECE,7.9,1,5,60.0,7.1,2,No,Not Placed
+S1490,ME,8.28,1,6,91.0,6.0,0,No,Placed
+S1491,ME,7.63,1,2,82.0,5.6,1,No,Placed
+S1492,ME,7.04,3,5,69.0,7.3,0,No,Placed
+S1493,ECE,7.71,0,6,57.0,7.2,1,No,Not Placed
+S1494,ECE,7.02,0,2,62.0,7.8,0,Yes,Not Placed
+S1495,CSE,8.14,1,3,,9.8,0,No,Placed
+S1496,CSE,5.65,2,4,68.0,7.4,0,No,Not Placed
+S1497,ME,7.0,0,3,,,0,Yes,Placed
+S1498,CSE,5.51,1,2,68.0,5.6,0,No,Not Placed
+S1499,CSE,5.95,2,6,65.0,5.3,1,No,Not Placed
